@@ -95,6 +95,8 @@ The main benefits of this architecture are as follows:
 - **Focuses on strengths**: with a strong backend engineering background, having a SPA would require investing significat amounts ot time and energy to have a codebase in a optimal state, which would be likely to extrapolate the amount of time available for this task. Instead, this architecture focuses on technologies I'm proficient with and that also intersect with what I use on daily work
 - **Simple and easy to pivot**: a simple architecture focused on things I'm used to makes me more agile, enabling me to pivot if necessary and turn the product in a different direction.
 
+Please notice that as part of this approach, there will be no Single Page App, written in React or any other frontend framework. As I'm not familiar with frontend technologies, the project will provide a Web UI written using Flask framework.
+
 ### **2.2. Descripción de componentes principales:**
 
 > Describe los componentes más importantes, incluyendo la tecnología utilizada
