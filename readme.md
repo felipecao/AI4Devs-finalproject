@@ -19,7 +19,7 @@ Felipe Abrantes Carvalho
 
 ### **0.2. Nombre del proyecto:**
 
-Smart Invoices
+Invoicelytics
 
 ### **0.3. Descripción breve del proyecto:**
 
