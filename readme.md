@@ -32,10 +32,13 @@ Invoicelytics is a product that is meant to make it much easier working with inv
 
 > Puede ser pública o privada, en cuyo caso deberás compartir los accesos de manera segura. Puedes enviarlos a [alvaro@lidr.co](mailto:alvaro@lidr.co) usando algún servicio como [onetimesecret](https://onetimesecret.com/).
 
+https://invoicelytics.onrender.com
+
 ### 0.5. URL o archivo comprimido del repositorio
 
 > Puedes tenerlo alojado en público o en privado, en cuyo caso deberás compartir los accesos de manera segura. Puedes enviarlos a [alvaro@lidr.co](mailto:alvaro@lidr.co) usando algún servicio como [onetimesecret](https://onetimesecret.com/). También puedes compartir por correo un archivo zip con el contenido
 
+https://github.com/felipecao/invoicelytics
 
 ---
 
@@ -46,7 +49,6 @@ Invoicelytics is a product that is meant to make it much easier working with inv
 ### **1.1. Objetivo:**
 
 > Propósito del producto. Qué valor aporta, qué soluciona, y para quién.
-
 
 **Invoicelytics** is a cutting-edge invoice management platform designed to simplify and streamline the process of handling invoices. With Invoicelytics, you can easily upload your invoices in PDF format and leverage advanced analytics to gain actionable insights. Whether you're a small business owner, accountant, or finance manager, Invoicelytics empowers you to stay on top of your finances with ease.
 
@@ -72,7 +74,7 @@ The platform allows you to quickly answer critical questions like how much you'v
 ### **1.4. Instrucciones de instalación:**
 > Documenta de manera precisa las instrucciones para instalar y poner en marcha el proyecto en local (librerías, backend, frontend, servidor, base de datos, migraciones y semillas de datos, etc.)
 
-#### TBD
+See the `README.md` file contained in the codebase.
 
 ---
 
@@ -125,7 +127,7 @@ Please notice that as part of this approach, there will be no Single Page App, w
 
 > Representa la estructura del proyecto y explica brevemente el propósito de las carpetas principales, así como si obedece a algún 
 
-#### TBD
+See the `README.md` file contained in the codebase.
 
 ### **2.4. Infraestructura y despliegue**
 
