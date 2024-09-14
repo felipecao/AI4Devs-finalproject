@@ -69,7 +69,7 @@ The platform allows you to quickly answer critical questions like how much you'v
 
 > Proporciona imágenes y/o videotutorial mostrando la experiencia del usuario desde que aterriza en la aplicación, pasando por todas las funcionalidades principales.
 
-#### TBD
+[Videotutorial](https://vimeo.com/1009412330?share=copy)
 
 ### **1.4. Instrucciones de instalación:**
 > Documenta de manera precisa las instrucciones para instalar y poner en marcha el proyecto en local (librerías, backend, frontend, servidor, base de datos, migraciones y semillas de datos, etc.)
